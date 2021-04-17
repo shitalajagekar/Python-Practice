@@ -1,4 +1,5 @@
-# use of decorator,setter
+# to convert function into attribute with the help of of @property decorator and change the value of it's parameter
+#  using @(name).setter and delete it's value using deleter
 
 class Employee:
     def __init__(self,fname,lname):
