@@ -17,7 +17,7 @@ else:
     
 """
 
-content=" "
+content=True
 i=1
 with open("log_file.txt") as f:
     while content:
